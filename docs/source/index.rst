@@ -1,22 +1,18 @@
 Selamat datang di Dokumentasi Matematikin.js
 ===================================
 
-**Matematikin** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Matematikin** merupakan library javascript untuk melakukan beberapa hal yang berkaitan dengan matematika.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Silahkan ke bagian :doc:`Cara Menggunakan` untuk informasi selanjutnya, termasuk cara :ref:`instalasi` library ini.
 
-.. note::
+.. catatan::
 
-   This project is under active development.
+   Project ini sedang dalam pengembangan.
 
-Contents
+Daftar Isi
 --------
 
 .. toctree::
 
-   usage
+   Cara Menggunakan
    api
